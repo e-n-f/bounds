@@ -1,0 +1,9 @@
+These are bounding boxes and centers for each of the city clusters.
+
+The first line is the latitudes and longitudes of the bounding box.
+
+The second line is the center of gravity of the central cluster.
+
+The third line is an approximate place name from the Yahoo
+place database.  It is from simple bounding box comparison, not
+lookup of a particular point, so it may be a little off.
